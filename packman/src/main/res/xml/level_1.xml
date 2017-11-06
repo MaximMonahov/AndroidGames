@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--|-  -> WALL-->
+<!--G -> GHOST-->
+<!-- * -> NONE-->
+<!--P -> PACKMAN-->
+<!--B -> WHITE BALL-->
+
+<data name = "level_1_map"  >
+        <row>-------------------</row>
+        <row>-BBBBBBBB|BBBBBBBB-</row>
+        <row>-B--B---B|B---B--B-</row>
+        <row>-BBBBBBBBBBBBBBBBB-</row>
+        <row>-B--B|B-----B|B--B-</row>
+        <row>-BBBB|BBB|BBB|BBBB-</row>
+        <row>---|B|-- | --|B|---</row>
+        <row>*  |B|BBBGBBB|B|  *</row>
+        <row>---|B|B--B--B|B|---</row>
+        <row>*BBBBBB|   |BBBBBB*</row>
+        <row>---|B|B-----B|B|---</row>
+        <row>*  |B|BBBBBBB|B|  *</row>
+        <row>---|B| -----B|B|---</row>
+        <row>-BBBBBBBB|BBBBBBBB-</row>
+        <row>-B-|B---B|B---B-- -</row>
+        <row>-BB|BBBBBBBBBBB|BB-</row>
+        <row>--B|B|B-----B|B|B--</row>
+        <row>-BBBB|BBB|BBB|BBB -</row>
+        <row>-B------B|B------B-</row>
+        <row>-BBBBBBBB|BBBBBBBB-</row>
+        <row>-| -B--B----B-B-B--</row>
+        <row>-BBBB|BBB|BBB|BBBB-</row>
+        <row>-|B|B|B|B|B|B|B|B|-</row>
+        <row>-BBBBBBBBPBBBBBBBB-</row>
+        <row>-------------------</row>
+</data>

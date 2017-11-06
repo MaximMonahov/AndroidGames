@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SNAKE</string>
+    <string name="extra_score">Score</string>
+    <string name="yor_score_string">"Your score is: "</string>
+    <string name="db_name">myDB1</string>
+    <string name="winners_table_name">winnersTable1</string>
+    <string name="db_param_name">name</string>
+    <string name="db_param_score">score</string>
+    <string name="db_param_time">time</string>
+    <string name="clear_all_btn_name">Clear All</string>
+    <string name="param_name_photo">photo</string>
+</resources>

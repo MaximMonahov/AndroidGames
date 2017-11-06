@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/handlers/Handlers.iml" filepath="$PROJECT_DIR$/handlers/Handlers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplicationSnake.iml" filepath="$PROJECT_DIR$/MyApplicationSnake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asynctasks/asynctasks.iml" filepath="$PROJECT_DIR$/asynctasks/asynctasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packman/packman.iml" filepath="$PROJECT_DIR$/packman/packman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tetris/tetris.iml" filepath="$PROJECT_DIR$/tetris/tetris.iml" />
+    </modules>
+  </component>
+</project>

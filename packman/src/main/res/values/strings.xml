@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Packman</string>
+    <string name="btn_name_exit">Exit</string>
+    <string name="btn_name_best_players">Best</string>
+    <string name="btn_name_settings">Settings</string>
+    <string name="btn_name_play">Play</string>
+    <string name="tag_name_fields">fields</string>
+    <string name="tag_name_row">row</string>
+    <string name="tag_name_data">data</string>
+</resources>
